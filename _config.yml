@@ -11,7 +11,7 @@ logo:     #optional, defaults to site title
 
 # URL settings
 url    : "https://osmkenya.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "website2" # the subpath of your site, e.g. /blog
+baseurl: "/website2" # the subpath of your site, e.g. /blog
 
 # Language/Locale settings
 locale: "en-US" # See available languages in _data/sitetext.yml
