@@ -1,51 +1,28 @@
-/* Remove italic styling from header text */
+/* Remove italic styling from header intro text */
 header .intro-text .intro-lead-in {
   font-style: normal !important;
-  font-weight: 400;
 }
 
+/* Remove italic styling from main header text */
 header .intro-text .intro-heading {
   font-style: normal !important;
-  text-transform: none !important; /* Also removes uppercase if applied */
 }
 
-/* Remove uppercase from navigation */
-.navbar-nav {
-  text-transform: none !important;
+/* Remove italic styling from section subheadings (gray text under section titles) */
+.section-subheading {
+  font-style: normal !important;
 }
 
-.navbar-nav .nav-link {
-  text-transform: none !important;
+h3.section-subheading {
+  font-style: normal !important;
 }
 
-/* Remove uppercase from section headings */
-.section-heading {
-  text-transform: none !important;
+/* Remove italic styling from timeline subheadings */
+.timeline > li .timeline-heading h4.subheading {
+  font-style: normal !important;
 }
 
-h2.section-heading {
-  text-transform: none !important;
+/* Remove italic styling from portfolio item intro text */
+.portfolio-modal .item-intro {
+  font-style: normal !important;
 }
-
-/* Remove uppercase from buttons */
-.btn-primary,
-.btn-xl {
-  text-transform: none !important;
-}
-
-/* Remove uppercase from timeline headings */
-.timeline > li .timeline-heading h4 {
-  text-transform: none !important;
-}
-
-/* Remove uppercase from footer */
-footer .quicklinks a {
-  text-transform: none !important;
-}
-
-/* Remove uppercase from portfolio captions */
-.portfolio-caption h4 {
-  text-transform: none !important;
-}
-
-/* Optional: If you want to keep SOME uppercase, comment out specific sections above */
