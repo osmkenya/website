@@ -128,6 +128,11 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+            
+  register:
+    title: "Join OSM Kenya"
+    text: "Register to become part of our mapping community"
+    section: register
 
   contact:
     title: "Contact Us"
