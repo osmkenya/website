@@ -6,3 +6,19 @@ white: "#e1edd4"
 #Image Customization
 header-image: "../img/header-bg.jpg"
 contact-image: "../img/map-image.jpg"
+
+# Font URLs - Import from Google Fonts
+fonts_urls:
+  - "https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap"
+  - "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap"
+
+# Font Assignments
+fonts:
+  - name: "Outfit"
+    for: "heading"     # Headings - geometric, modern (like Garet)
+  - name: "Outfit"
+    for: "script"      # Decorative text
+  - name: "Inter"
+    for: "serif"       # Quotes and emphasis
+  - name: "Inter"
+    for: "body"        # Body text - excellent readability
