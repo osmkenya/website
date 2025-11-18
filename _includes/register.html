@@ -1,19 +1,33 @@
-<!-- Register Section with Background - Uses site.baseurl -->
-<section class="page-section" id="register" style="background-image: url('{{ site.baseurl }}/assets/img/map-image.jpg'); background-size: cover; background-position: center; background-attachment: scroll; position: relative;">
-  <!-- Dark overlay for better text readability -->
-  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-color: rgba(0, 0, 0, 0.5);"></div>
+<!-- Register Section - DEBUG VERSION -->
+<!-- DEBUG INFO: site.baseurl = "{{ site.baseurl }}" -->
+<!-- DEBUG INFO: Full path = "{{ site.baseurl }}/assets/img/map-image.jpg" -->
+
+<section class="page-section" id="register" style="background-color: #008B5B; background-image: url('{{ site.baseurl }}/assets/img/map-image.jpg'); background-size: cover; background-position: center; background-attachment: scroll; position: relative; min-height: 800px;">
+  <!-- Dark overlay -->
+  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-color: rgba(0, 0, 0, 0.5); z-index: 1;"></div>
   
-  <div class="container" style="position: relative; z-index: 1;">
+  <div class="container" style="position: relative; z-index: 2; padding-top: 80px; padding-bottom: 80px;">
     <div class="row">
       <div class="col-lg-12 text-center">
         <h2 class="section-heading text-uppercase" style="color: white;">{{ site.data.sitetext[site.locale].register.title | markdownify }}</h2>
         {% if site.data.sitetext[site.locale].register.text %}
           <h3 class="section-subheading" style="color: white; opacity: 0.9;">{{ site.data.sitetext[site.locale].register.text }}</h3>
         {% endif %}
+        
+        <!-- DEBUG: Show what paths are being generated -->
+        <p style="color: yellow; font-size: 12px; margin-top: 20px;">
+          DEBUG: Background path = {{ site.baseurl }}/assets/img/map-image.jpg
+        </p>
       </div>
     </div>
     <div class="row">
       <div class="col-lg-10 mx-auto">
+        <!-- Test if image exists with regular img tag -->
+        <div style="background: white; padding: 20px; margin-bottom: 20px; border-radius: 8px;">
+          <p style="color: black; text-align: center;">Test: Can we load the image directly?</p>
+          <img src="{{ site.baseurl }}/assets/img/map-image.jpg" style="max-width: 200px; display: block; margin: 0 auto; border: 3px solid red;" alt="Test image">
+        </div>
+        
         <!-- Embedded Google Form -->
         <div style="position: relative; overflow: hidden; padding-top: 120%; max-width: 100%; background: white; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.5);">
           <iframe 
