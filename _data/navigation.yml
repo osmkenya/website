@@ -12,6 +12,8 @@ en: &DEFAULT_EN
       section: timeline
     - title: "Our Community"
       section: team
+    - title: "Register"
+      section: register
     - title: "Contact"
       section: contact
     - title: "Join Us"
