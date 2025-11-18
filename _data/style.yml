@@ -9,16 +9,16 @@ contact-image: "../img/map-image.jpg"
 
 # Font URLs - Import from Google Fonts
 fonts_urls:
-  - "https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap"
-  - "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap"
+  - "https://fonts.googleapis.com/css2?family=Outfit:ital,wght@0,300;0,400;0,500;0,600;0,700&display=swap"
+  - "https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,300;0,400;0,600&display=swap"
 
 # Font Assignments
 fonts:
   - name: "Outfit"
-    for: "heading"     # Headings - geometric, modern (like Garet)
+    for: "heading"
   - name: "Outfit"
-    for: "script"      # Decorative text
+    for: "script"
   - name: "Inter"
-    for: "serif"       # Quotes and emphasis
+    for: "serif"
   - name: "Inter"
-    for: "body"        # Body text - excellent readability
+    for: "body"
