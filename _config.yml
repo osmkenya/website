@@ -1,43 +1,72 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that.
-# This file is *NOT* reloaded automatically when you use 'bundle exec jekyll serve'.
-# If you change this file, please restart the server process.
-
 # Site settings
-# are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+title: OpenStreetMap Kenya
+email: info@osmkenya.org #this is also the email contact forms will go to
+description: >-
+  OpenStreetMap (OSM) Kenya is a volunteer community of mappers, developers, 
+  users, and advocates leading the open mapping movement in Kenya.
 
-#theme: jekyll-agency
-remote_theme: raviriley/agency-jekyll-theme
-
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
-
-title      : OpenStreetMap Kenya
-email      : info@osmkenya.org #this is also the email contact forms will go to
-description: "OpenStreetMap (OSM) Kenya is a volunteer community of mappers, developers,users, and advocates leading the open mapping movement in Kenya."
-author     : Laura Mugeha
 logo:     #optional, defaults to site title
  path: assets\img\clients\logo.svg
  height: 60 #height in px, defaults to 52px
 
+# URL settings
+url    : "https://osmkenya.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "website2" # the subpath of your site, e.g. /blog
+
+# Language/Locale settings
 locale: "en-US" # See available languages in _data/sitetext.yml
+lang: "en"
 
-analytics:
-  google: #Google Analytics tracking code here
+# Social media
+twitter_username: OSMkenya
+github_username: osmkenya
 
-collections:
-  portfolio:
+#theme: jekyll-agency
+remote_theme: raviriley/agency-jekyll-theme
 
+# Build settings
 markdown: kramdown
-
-# Uncomment following line to use Formspree form ID based URL instead of email based URL
-# Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
-# formspree_form_path: "f/a_form_id"
+permalink: pretty
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-include-cache
+
+# Collections for portfolio items
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+  
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "portfolio"
+    values:
+      layout: "portfolio-item"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/
+  - README.md
+  - LICENSE
+  - "*.sh"
+
+# Timezone
+timezone: Africa/Nairobi
+encoding: utf-8
+
+# Analytics (optional)
+analytics:
+  google: # Add your Google Analytics tracking code if needed
+
+
+author: Laura Mugeha
+
