@@ -14,10 +14,10 @@ en: &DEFAULT_EN
       section: team
     - title: "Register"
       section: register
-    - title: "Contact"
-      section: contact
-    - title: "Join Us"
-      url: https://forms.gle/LAzoMoQgN3RyZP5p9
+#   - title: "Contact"
+#     section: contact
+#   - title: "Join Us"
+#     url: https://forms.gle/LAzoMoQgN3RyZP5p9
 en-US:
   <<: *DEFAULT_EN
 en-CA:
