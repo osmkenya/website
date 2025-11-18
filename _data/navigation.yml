@@ -6,7 +6,7 @@ en: &DEFAULT_EN
       section: services
     - title: "Projects"
       section: portfolio
-    - title: "About"
+    - title: "About OSM"
       section: about
     - title: "Our Story"
       section: timeline
