@@ -4,7 +4,6 @@ email: info@osmkenya.org #this is also the email contact forms will go to
 description: >-
   OpenStreetMap (OSM) Kenya is a volunteer community of mappers, developers, 
   users, and advocates leading the open mapping movement in Kenya.
-favicon: "favicon.ico"
 
 logo:     #optional, defaults to site title
  path: assets\img\clients\logo.svg
