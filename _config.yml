@@ -36,8 +36,8 @@ plugins:
   - jekyll-include-cache
 
 # Favicon config
-head_custom: |
-  <link rel="icon" type="image/png" href="/website2/favicon.png">
+head_custom:
+ <link rel="shortcut icon" type="image/png" href="{{ "/favicon.png" | prepend: site.baseurl }}" >
 
 # Collections for portfolio items
 collections:
