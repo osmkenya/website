@@ -11,54 +11,59 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Welcome to our OSM Kenya!
+    text: Mapping Kenya, Together
+    button: Learn More
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "What We Do"
+    text: "Building Kenya's open map through community collaboration"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Community Mapping"
+        desc: "We organize mapathons and mapping events across Kenya, bringing together volunteers to map communities, infrastructure, and resources for the benefit of all."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Capacity Building"
+        desc: "Training and mentoring new mappers, from students to professionals, ensuring everyone can contribute to building an accurate and comprehensive map of Kenya."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Data Quality"
+        desc: "Maintaining high standards for OpenStreetMap data in Kenya through validation, quality assurance, and continuous improvement of our mapping practices."
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Our Projects"
+    text: "Mapping initiatives and community projects across Kenya"
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
+    title: "Our Story"
+    text: "Building the OpenStreetMap Community in Kenya"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
+      - title: "The Beginning"
+        year: "August 2018"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
-        alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
+        alt: The Beginning
+      - title: "First Mapathon"
+        year: "October 2018"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        alt: First mapathon
+      - title: "First Community Project"
+        year: "August 2020"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/3.jpg
-        alt: image alt text
+        alt: First Project
+      - title: "State of the Map 2024"
+        year: "September 2024"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        image: assets/img/timeline/4.jpg
+        alt: State of the Map
       - title: "Title"
         year: "2009-2011"
         desc: "Your description here, **Markdown** is fully supported."
@@ -69,47 +74,37 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
+    title: "About OSM"
+    text: "World's Largest Open Geodatabase"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "Our Community"
+    text: "Meet the People Mapping Kenya"
+    subtext: OpenStreetMap Kenya is powered by volunteers from all walks of life - students, professionals, activists, and everyday citizens who believe in the power of open data. Join us in building the map!
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Community Mappers"
+        role: "Volunteers and Organizations Across Kenya"
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+          - url: https://wiki.openstreetmap.org/wiki/OSM_Kenya
+            icon: fab fa-wikipedia-w
+            
+      - name: "Students and Academia"
+        role: "YouthMappers Chapters"
         image: assets/img/team/2.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+          - url: https://wiki.openstreetmap.org/wiki/OSM_Kenya
+            icon: fab fa-wikipedia-w
+            
+      - name: "Leadership Committee and Working Groups"
+        role: "Volunteer Leaders"
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://wiki.openstreetmap.org/wiki/OSM_Kenya
+            icon: fab fa-wikipedia-w
             
   register:
     title: "Join OSM Kenya"
@@ -119,16 +114,17 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
+      - url: https://twitter.com/osmkenya
         icon: "fab fa-twitter"
-      - url: https://facebook.com
+      - url: https://www.facebook.com/OSMKenya
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
+      - url: https://www.linkedin.com/company/osmkenya/
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
+      - url: https://www.instagram.com/osmkenya/
         icon: "fab fa-instagram"
+      - url: https://wiki.openstreetmap.org/wiki/OSM_Kenya
+        icon: "fab fa-wikipedia-w"
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:
