@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our OSM Kenya!
+    title: Welcome to OSM Kenya!
     text: Mapping Kenya, Together
     button: Learn More
     buttonlink: "#services"
