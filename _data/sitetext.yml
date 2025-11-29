@@ -19,6 +19,7 @@ en: &DEFAULT_EN
   services:
     title: "Our Mission"
     text: "Our mission is to create, maintain, and promote open geospatial data across Kenya by empowering communities, fostering collaboration, and ensuring accessibility for all." 
+    section: services
     
   services:
     title: "What We Do"
