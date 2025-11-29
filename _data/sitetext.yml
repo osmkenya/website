@@ -3,8 +3,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to OSM Kenya!
-    text: Mapping Kenya, Together
+    title: Welcome to OSM Kenya
+    text: Mapping Kenya, Together!
     button: Learn More
     buttonlink: "#services"
 
@@ -38,22 +38,22 @@ en: &DEFAULT_EN
     events:
       - title: "The Beginning"
         year: "August 2018"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "OSM Kenya was formally created by our founding members in Tanzania while attending the FOSS4G 2018 conference. During one of the conference days, the team met and discussed the goals of the community and the creation process."
         image: assets/img/timeline/foss4g.jpg
         alt: The Beginning
       - title: "First Mapathon"
         year: "October 2018"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "We hosted our first mapathon a few months later! This premier event was part of the global Map2EndFGM campaign. We brought together mappers and activists to learn more about supporting their work and mapped Kuria in Kenya"
         image: assets/img/timeline/mapathon.jpg
         alt: First mapathon
       - title: "First Community Project"
         year: "August 2020"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "In 2020, OSM Kenya received a project microgrant from HOTOSM and Meta! We facilitated the training of 30 female mappers over 5 months while mapping healthcare facilities in Nairobi"
         image: assets/img/timeline/project.jpg
         alt: First Project
       - title: "State of the Map 2024"
         year: "September 2024"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "After many projects, mapathons and events, OSM Kenya hosted the global OpenStreetMap community in Nairobi in 2024 for the annual State of the Map conference"
         image: assets/img/timeline/sotm.jpg
         alt: State of the Map
         # you can enforce the alignment
