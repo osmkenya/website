@@ -7,7 +7,7 @@ alt:
 caption:
   title: Hosting State of the Map 2024 Global Conference in Nairobi Kenya
   subtitle: Celebrating Global Engagement and Local Leadership in Open Mapping
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  thumbnail: assets/img/portfolio/03-full.jpg
 ---
 In the  year 2024, OSM Kenya had an opportunity to host the global conference ‘State of the Map’ at the University of Nairobi. The conference brought together OSM enthusiasts, researchers, innovators, learners and OSM contributors from 54 countries around the world. 
 
