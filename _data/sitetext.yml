@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Community Mapping"
-        desc: "We create projects and organize mapping events across Kenya, bringing together volunteers to map communities, infrastructure, and resources for the benefit of all."
+        desc: "Creating projects and events across Kenya, bringing together volunteers to map communities, infrastructure, and resources for the benefit of all."
         icon: fas fa-map #find more at https://fontawesome.com/icons
       - title: "Capacity Building"
         desc: "Training and mentoring new mappers, from students to professionals, ensuring everyone can contribute to building an accurate and comprehensive map of Kenya."
@@ -70,8 +70,12 @@ en: &DEFAULT_EN
 
   about:
     title: "About OSM"
-    text: "OSM Kenya is a local mapping community of both individuals and organizations"
-    body: "At OSM Kenya we Map and  Contribute to OpenStreetMap by adding and updating geographical data. We provide learning resources and tutorials for mappers of all levels. This allows mappers to collaborate and work on projects that benefit communities across Kenya to advocate and promote the use of open geospatial data in various sectors Every contribution from tracing roads to adding points of interest helps improve our map."
+    text: "World's Largest Open Geodatabase"
+    section: about
+    body: |
+      OpenStreetMap is the world's leading collaborative mapping platform, where millions of volunteers create and share free geographic data. Anyone can contribute, edit, and use OSM data for navigation, planning, research, and innovation.
+      
+      As OSM Kenya, we're the local community driving this mission forward in Kenya. We organize mapping events, train new mappers, collaborate with organizations, and ensure that Kenyan communities are represented on the world's free map. From rural villages to urban centers, we're building the most detailed, accessible map of Kenya—together.
 
   team:
     title: "Our Community"
@@ -80,7 +84,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Community Mappers"
-        role: "Volunteers and Organizations Across Kenya. We are actively working towards building a truly national community Whether you are an experienced mapper or new to OpenStreetMap there is a place for you in OSM Kenya."
+        role: "Volunteers and Organizations Across Kenya"
         image: assets/img/team/image4.webp
         social:
           - url: https://wiki.openstreetmap.org/wiki/OSM_Kenya
