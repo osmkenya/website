@@ -1,12 +1,12 @@
 ---
 title: Satellite Imagery for Social Good
-subtitle: Mapping Nakuru, Kisumu, and Turkana Counties
+subtitle: Using AI in mapping Nakuru, Kisumu, and Turkana counties in Kenya.
 image: assets/img/portfolio/Nakuru.jpeg
 alt: 
 
 caption:
   title: Satellite Imagery for Social Good
-  subtitle: Using AI in mapping counties in Kenya.
+  subtitle: Using AI in mapping Nakuru, Kisumu, and Turkana counties in Kenya
   thumbnail: assets/img/portfolio/NakuruThumbnail1.jpg
 ---
 In 2022, OSM Kenya members supported the Humanitarian OpenStreetMap Team (HOT) and Microsoft to enhance mapping in key Kenyan counties: Nakuru, Turkana, and Kisumu. During the project period, OSM Kenya members combined AI-generated data with human verification, resulting in 1.4 million mapped and validated building footprints and 19,131 km of mapped roads.
