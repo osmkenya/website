@@ -7,7 +7,7 @@ alt:
 caption:
   title: Photomapping for Sustainable Mobility
   subtitle: Enhancing Maps Through Street-Level Imagery
-  thumbnail: assets/img/portfolio/NakuruThumbnail2.jpeg
+  thumbnail: assets/img/portfolio/NakuruThumbnail2.jpg
 ---
 In March and April 2025, OSM Kenya members supported the Humanitarian OpenStreetMap Team – Open Mapping Hub Eastern and Southern Africa on an innovative project: Photomapping for Sustainable Mobility using Street-Level Imagery (SLI) in Nakuru, Kenya.
 
