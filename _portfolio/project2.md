@@ -1,15 +1,15 @@
 ---
 title: Mapping healthcare in Kenya
-subtitle: Using Open Mapping to Enhance Healthcare Visibility in Kenya
+subtitle: Using Open Mapping to Enhance Healthcare Accessibility
 image: assets/img/portfolio/P1090052.JPG
-alt: OSM Kenya and YouthMappers Kenya engaged in  training and mapped healthcare facilities
+alt: 
 
 caption:
   title: Mapping healthcare in Kenya
-  subtitle: Using Open Mapping to Enhance Healthcare Visibility in Kenya
+  subtitle: Using Open Mapping to Enhance Healthcare Accessibility
   thumbnail: assets/img/portfolio/HealthcareThumbnail.jpg
 ---
-In 2020, OSM Kenya and YouthMappers Kenya received a microgrant to map health facilities in Nairobi and the surrounding counties. This was administered through a community mentorship program where a cohort of 30 were trained on all aspects of OSM. We then worked to map and enrich existing healthcare data on OpenStreetMap by leveraging open data sources ofrom the Ministry of Health and survey data by GlaxoSmithKline(2019). The project was led by Youth Mappers Kenya and OSM Kenya, and Map Kibera kindly supported the administration of the project and helped to host and coordinate its activities.
+In 2020, OSM Kenya and YouthMappers Kenya received a microgrant to map health facilities in Nairobi and the surrounding counties. This was administered through a community mentorship program where a cohort of 30 was trained on all aspects of OSM. We then worked to map and enrich existing healthcare data on OpenStreetMap by leveraging open data sources from the Ministry of Health and survey data from GlaxoSmithKline(2019). Youth Mappers Kenya and OSM Kenya led the project, with Map Kibera serving as the fiscal host.
 
 {:.list-inline}
 - Date: 2020
