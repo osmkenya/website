@@ -1,11 +1,11 @@
 ---
-title: Hosting State of the Map 2024 Global Conference in Nairobi Kenya
+title: Hosting State of the Map 2024
 subtitle: Celebrating Global Engagement and Local Leadership in Open Mapping.
 image: assets/img/portfolio/03-full.jpeg
 alt: 
 
 caption:
-  title: Hosting State of the Map 2024 Global Conference in Nairobi Kenya
+  title: Hosting State of the Map 2024
   subtitle: Celebrating Global Engagement and Local Leadership in Open Mapping
   thumbnail: assets/img/portfolio/03-full.jpeg
 ---
