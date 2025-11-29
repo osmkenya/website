@@ -76,21 +76,21 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Community Mappers"
-        role: "Volunteers and Organizations Across Kenya"
+        role: "Individual Mappers and Organizations Across Kenya"
         image: assets/img/team/1.jpg
         social:
-          - url: https://wiki.openstreetmap.org/wiki/OSM_Kenya
-            icon: fab fa-wikipedia-w
+          - url: https://osmstats.neis-one.org/?item=countries&country=Kenya
+            icon: fa fa-link
             
       - name: "Students and Academia"
         role: "YouthMappers Chapters in Kenyan Universities"
         image: assets/img/team/2.jpg
         social:
           - url: https://www.youthmappers.org/
-            icon: fab fa-link
+            icon: fa fa-link
             
-      - name: "Leadership Committee and Working Groups"
-        role: "Volunteer Leaders organizing activities for the community"
+      - name: "Leadership Committee"
+        role: "Volunteer Leaders Organized in Working Groups"
         image: assets/img/team/3.jpg
         social:
           - url: https://wiki.openstreetmap.org/wiki/OSM_Kenya
