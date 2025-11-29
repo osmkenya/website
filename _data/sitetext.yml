@@ -71,8 +71,7 @@ en: &DEFAULT_EN
   about:
     title: "About OSM"
     text: "OSM Kenya is a local mapping community of both individuals and organizations"
-    body: "At OSM Kenya we Map and  Contribute to OpenStreetMap by adding and updating geographical data We provide learning resources and tutorials for mappers of all levels. This allows mappers to collaborate and work on projects that benefit communities across Kenya to advocate and promote the use of open geospatial data in various sectors Every contribution from tracing roads to adding points of interest helps improve our map. Together lets map Kenya for the  future. One edit at a time. Additionally we have worked and engaged with several organizations such as Map Kibera, Trust Ushahidi, UpandeLImited,MSF, East and Central Africa OMH, ESA, Hub IFRC, Kenya Red Cross and Digital Matatus. While all our in person activities are centered in Nairobi our projects span the entire country. We hope to have national distribution in terms of membership Whether you are an active or seasoned mapper We are actively working towards building a truly national community Whether you are an experienced mapper or new to OpenStreetMap there is a place for you in OSM Kenya."
-    section: about
+    body: "At OSM Kenya we Map and  Contribute to OpenStreetMap by adding and updating geographical data. We provide learning resources and tutorials for mappers of all levels. This allows mappers to collaborate and work on projects that benefit communities across Kenya to advocate and promote the use of open geospatial data in various sectors Every contribution from tracing roads to adding points of interest helps improve our map."
 
   team:
     title: "Our Community"
