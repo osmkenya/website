@@ -1,7 +1,7 @@
 ---
 title: Satellite Imagery for Social Good
 subtitle: Using AI in mapping Nakuru, Kisumu, and Turkana counties in Kenya.
-image: assets/img/portfolio/Nakuru.jpeg
+image: assets/img/portfolio/Nakuru.jpg
 alt: 
 
 caption:
