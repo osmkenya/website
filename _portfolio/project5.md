@@ -14,7 +14,6 @@ In March and April 2025, OSM Kenya collaborated with the Humanitarian OpenStreet
 This project aimed to advance the detail, accuracy, and usability of OpenStreetMap (OSM) data by tapping into the power of street-level imagery and AI-assisted mapping tools. By leveraging high-resolution imagery captured along the streets of Nakuru, the team worked to transform photos into valuable geospatial data that can directly support sustainable mobility initiatives.
 
 {:.list-inline}
-- Date: October 2019
-- Client: Southwest
-- Category: Website Design
+- Date: March 2025
+
 
