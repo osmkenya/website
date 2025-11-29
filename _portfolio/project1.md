@@ -1,5 +1,5 @@
 ---
-title: World Clean Up Day 2025
+title: OSM Kenya - World Clean Up Day 2025
 subtitle: OSM Kenya participates in World Clean Up Day 2025
 image: assets/img/portfolio/WorldCleanUpDay.jpg
 alt: OSM Kenya members participating in the 2025 World Clean Up Day Mapping Campaign in Kibera.
