@@ -73,7 +73,7 @@ en: &DEFAULT_EN
     text: "World's Largest Open Geodatabase"
     section: about
     body: |
-      OpenStreetMap is the world's leading collaborative mapping platform, where millions of volunteers create and share free geographic data. Anyone can contribute, edit, and use OSM data for navigation, planning, research, and innovation.
+      [OpenStreetMap](https://www.openstreetmap.org) is the world's leading collaborative mapping platform, where millions of volunteers create and share free geographic data. Anyone can contribute, edit, and use OSM data for navigation, planning, research, and innovation.
       
       As OSM Kenya, we're the local community driving this mission forward in Kenya. We organize mapping events, train new mappers, collaborate with organizations, and ensure that Kenyan communities are represented on the world's free map. From rural villages to urban centers, we're building the most detailed, accessible map of Kenya—together.
 
