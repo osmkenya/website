@@ -1,13 +1,13 @@
 ---
 title: World Clean Up Day 2025
 subtitle: OSM Kenya participates in World Clean Up Day 2025
-image: assets/img/portfolio/01-full.jpg
+image: assets/img/portfolio/WorldCleanUpDay.jpg
 alt: OSM Kenya members participating in the 2025 World Clean Up Day Mapping Campaign in Kibera.
 
 caption:
   title: World Clean Up Day 2025
   subtitle: OSM Kenya participates in World Clean Up Day 2025
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/portfolio/WorldCleanUpDay.jpg
 ---
 Every year, **World Cleanup Day** brings together millions of people across the globe with one mission – to create a cleaner, healthier, and more sustainable planet. In 2025, OSM Kenya proudly joined this global movement by organizing a cleanup activity in Kibera Slum, Nairobi – one of the largest informal settlements in Africa. 
 
