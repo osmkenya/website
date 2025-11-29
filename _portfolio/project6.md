@@ -1,18 +1,17 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: IDEAMAPS City-wide Model Validation by APHRC
+subtitle: Assessing the Reliability and Real-World Performance of the APHRC Model.
 image: assets/img/portfolio/06-full.jpg
-alt: 
+alt: Assessing the Reliability and Real-World Performance of the APHRC Model
 
 caption:
-  title: Window
-  subtitle: Photography
+  title: IDEAMAPS City-wide Model Validation by APHRC
+  subtitle: Assessing the Reliability and Real-World Performance of the APHRC Model
   thumbnail: assets/img/portfolio/06-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+The testing and validation of the APHRC model aimed to assess its accuracy, reliability, and applicability in addressing the intended research objectives. The process involved evaluating the model’s assumptions, testing its predictive capacity against real-world data, and ensuring that the outputs align with observed patterns. Validation was conducted through comparison with benchmark datasets, stakeholder feedback, and scenario analysis to determine the model’s robustness. The findings confirmed that the model meets the required standards for credibility and usability, providing a strong foundation for evidence-based decision-making and future applications.
 
 {:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
+- Date: 2025
+
 
