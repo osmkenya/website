@@ -1,7 +1,7 @@
 ---
 title: Satellite Imagery for Social Good
 subtitle: Mapping Nakuru, Kisumu, and Turkana Counties
-image: assets/img/portfolio/Nakuru.jpg
+image: assets/img/portfolio/Nakuru.jpeg
 alt: 
 
 caption:
