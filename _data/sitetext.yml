@@ -1,11 +1,3 @@
-#
-# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
-#
-# Configuration: Add to _config.yml
-# locale: "en-US"  [YOUR PREFERRED LOCALE]
-#
-# How to use:
-# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
 
 # English (default)
 # -----------------
@@ -47,22 +39,22 @@ en: &DEFAULT_EN
       - title: "The Beginning"
         year: "August 2018"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/foss4g.jpg
         alt: The Beginning
       - title: "First Mapathon"
         year: "October 2018"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/mapathon.jpg
         alt: First mapathon
       - title: "First Community Project"
         year: "August 2020"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/project.jpg
         alt: First Project
       - title: "State of the Map 2024"
         year: "September 2024"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/sotm.jpg
         alt: State of the Map
         # you can enforce the alignment
         align: right
@@ -85,21 +77,21 @@ en: &DEFAULT_EN
     people:
       - name: "Community Mappers"
         role: "Volunteers and Organizations Across Kenya"
-        image: assets/img/team/image4.webp
+        image: assets/img/team/1.jpg
         social:
           - url: https://wiki.openstreetmap.org/wiki/OSM_Kenya
             icon: fab fa-wikipedia-w
             
       - name: "Students and Academia"
-        role: "YouthMappers Chapters"
+        role: "YouthMappers Chapters in Kenyan Universities"
         image: assets/img/team/2.jpg
         social:
-          - url: https://wiki.openstreetmap.org/wiki/OSM_Kenya
-            icon: fab fa-wikipedia-w
+          - url: https://www.youthmappers.org/
+            icon: fab fa-link
             
       - name: "Leadership Committee and Working Groups"
-        role: "Volunteer Leaders"
-        image: assets/img/team/500x500.jpg
+        role: "Volunteer Leaders organizing activities for the community"
+        image: assets/img/team/3.jpg
         social:
           - url: https://wiki.openstreetmap.org/wiki/OSM_Kenya
             icon: fab fa-wikipedia-w
