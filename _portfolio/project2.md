@@ -1,7 +1,7 @@
 ---
 title: Mapping healthcare in Kenya HOTOSM Community Impact Microgrants
 subtitle: Using Open Mapping to Enhance Healthcare Visibility in Kenya
-image: assets/img/portfolio/02-full.jpg
+image: assets/img/portfolio/02-thumbnail.jpg
 alt: OSM Kenya and YouthMappers Kenya engaged in  training and mapped healthcare facilities
 
 caption:
