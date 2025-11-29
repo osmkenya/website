@@ -1,7 +1,7 @@
 ---
 title: Mapping healthcare in Kenya
 subtitle: Using Open Mapping to Enhance Healthcare Accessibility
-image: assets/img/portfolio/P1090052.JPG
+image: assets/img/portfolio/Healthcare.jpg
 alt: 
 
 caption:
