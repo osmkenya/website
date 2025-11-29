@@ -1,6 +1,6 @@
 ---
 title: Photomapping for Sustainable Mobility
-subtitle: Enhancing Maps Through Street-Level Imagery
+subtitle: Enhancing Maps Through Street Level Imagery
 image: assets/img/portfolio/Nakuru2.jpeg
 alt: 
 
