@@ -22,11 +22,11 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Community Mapping"
-        desc: "We create projects and organize mapathons and mapping events across Kenya, bringing together volunteers to map communities, infrastructure, and resources for the benefit of all."
+        desc: "We create projects and organize mapping events across Kenya, bringing together volunteers to map communities, infrastructure, and resources for the benefit of all."
         icon: fas fa-map #find more at https://fontawesome.com/icons
       - title: "Capacity Building"
         desc: "Training and mentoring new mappers, from students to professionals, ensuring everyone can contribute to building an accurate and comprehensive map of Kenya."
-        icon: fas fa-users-gear
+        icon: fas fa-chalkboard
       - title: "Data Quality"
         desc: "Maintaining high standards for OpenStreetMap data in Kenya through validation, quality assurance, and continuous improvement of our mapping practices."
         icon: fas fa-check-double
