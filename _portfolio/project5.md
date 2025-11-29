@@ -1,15 +1,17 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/05-full.jpg
+title: Photomapping for Sustainable Mobility using SLI in Nakuru
+subtitle: Enhancing Maps Through Street-Level Imagery.
+image: assets/img/portfolio/05-full.jpeg
 alt: 
 
 caption:
-  title: Southwest
-  subtitle: Website Design
-  thumbnail: assets/img/portfolio/05-thumbnail.jpg
+  title: Photomapping for Sustainable Mobility using SLI in Nakuru
+  subtitle: Enhancing Maps Through Street-Level Imagery
+  thumbnail: assets/img/portfolio/05-thumbnail.jpeg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+In March and April 2025, OSM Kenya collaborated with the Humanitarian OpenStreetMap Team (HOT) – Open Mapping Hub Eastern and Southern Africa on an innovative project: Photomapping for Sustainable Mobility using Street-Level Imagery (SLI) in Nakuru, Kenya.
+
+This project aimed to advance the detail, accuracy, and usability of OpenStreetMap (OSM) data by tapping into the power of street-level imagery and AI-assisted mapping tools. By leveraging high-resolution imagery captured along the streets of Nakuru, the team worked to transform photos into valuable geospatial data that can directly support sustainable mobility initiatives.
 
 {:.list-inline}
 - Date: October 2019
