@@ -70,8 +70,8 @@ en: &DEFAULT_EN
 
   about:
     title: "About OSM"
-    text: "World's Largest Open Geodatabase"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: "OSM Kenya is a local mapping community of both individuals and organizations"
+    body: "At OSM Kenya we Map and  Contribute to OpenStreetMap by adding and updating geographical data We provide learning resources and tutorials for mappers of all levels. This allows mappers to collaborate and work on projects that benefit communities across Kenya to advocate and promote the use of open geospatial data in various sectors Every contribution from tracing roads to adding points of interest helps improve our map. Together lets map Kenya for the  future. One edit at a time."
     section: about
 
   team:
