@@ -1,18 +1,22 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Satellite Imagery for Social Good
+subtitle: Mapping Nakuru County
 image: assets/img/portfolio/04-full.jpg
 alt: 
 
 caption:
-  title: Lines
-  subtitle: Branding
+  title: Satellite Imagery for Social Good
+  subtitle: Mapping Nakuru County
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+In 2022, OSM Kenya members supported the Humanitarian OpenStreetMap Team (HOT) and Microsoft to enhance mapping in key Kenyan counties. During the project period, OSM Kenya members:
+-Contributed and validated 1.4 million building footprints and 19,131 km of roads in Nakuru, Turkana, and Kisumu counties.
+-Utilized AI-generated and human-verified data to support city planning in Nakuru.
+-Collaborated with the Nakuru City Board to identify flood-prone areas.
+-Trained 20 OSM members and six county and city planning officials on AI-enabled open mapping tools.
+
 
 {:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
+- Date: 2022
+
 
