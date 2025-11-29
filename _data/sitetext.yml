@@ -26,7 +26,7 @@ en: &DEFAULT_EN
         icon: fas fa-map #find more at https://fontawesome.com/icons
       - title: "Capacity Building"
         desc: "Training and mentoring new mappers, from students to professionals, ensuring everyone can contribute to building an accurate and comprehensive map of Kenya."
-        icon: fas fa-people-carry-box
+        icon: fas fa-people-group
       - title: "Data Quality"
         desc: "Maintaining high standards for OpenStreetMap data in Kenya through validation, quality assurance, and continuous improvement of our mapping practices."
         icon: fas fa-medal
