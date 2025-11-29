@@ -80,7 +80,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Community Mappers"
-        role: "Volunteers and Organizations Across Kenya"
+        role: "Volunteers and Organizations Across Kenya. We are actively working towards building a truly national community Whether you are an experienced mapper or new to OpenStreetMap there is a place for you in OSM Kenya."
         image: assets/img/team/500x500.jpg
         social:
           - url: https://wiki.openstreetmap.org/wiki/OSM_Kenya
