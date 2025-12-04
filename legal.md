@@ -8,15 +8,15 @@ title: Privacy Policy
     <div class="row">
       <div class="col-lg-12 text-center">
         <h2 class="section-heading text-uppercase">Privacy Policy</h2>
-        <h3 class="section-subheading text-muted">Last Updated: December 2024</h3>
+        <h3 class="section-subheading text-muted">Last Updated: December 2025</h3>
       </div>
     </div>
     <div class="row">
-      <div class="col-lg-8 mx-auto">
+      <div class="col-lg-8 mx-auto" markdown="1">
 
 **About This Policy**
 
-This Privacy Policy describes how OpenStreetMap Kenya ("we," "us," or "our") collects, uses, and shares information when you visit {{ site.title }} (the "Site").
+This Privacy Policy describes how OpenStreetMap Kenya collects, uses, and shares information when you visit {{ site.title }} (the "Site").
 
 ---
 
