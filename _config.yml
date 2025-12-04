@@ -10,8 +10,8 @@ logo:     #optional, defaults to site title
  height: 60 #height in px, defaults to 52px
 
 # URL settings
-url    : "https://osmkenya.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/website2" # the subpath of your site, e.g. /blog
+url    : "https://osmkenya.org" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
 
 # Language/Locale settings
 locale: "en-US" # See available languages in _data/sitetext.yml
