@@ -68,13 +68,5 @@ analytics:
   google: # Add your Google Analytics tracking code if needed
 
 
-author: 
-Laura Mugeha:
-    name: Laura Mugeha
-    display_name: Laura Mugeha
-    gravatar: 
-    email: mugeha.okole@gmail.com
-    web: 
-    twitter: laura_mugeha
-    github: mugeha-laura
+author: Laura Mugeha
 
