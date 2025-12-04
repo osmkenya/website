@@ -1,20 +1,21 @@
 ---
 layout: page
 title: Privacy Policy
-background: grey
 ---
 
-<div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
-</div>
+**Privacy Policy**
+
+Last Updated: December 2025
 
 This Privacy Policy describes how OpenStreetMap Kenya collects, uses, and shares information when you visit {{ site.title }} (the "Site").
+
+---
 
 **INFORMATION WE COLLECT**
 
 **1. Registration Form Data**
 
-When you complete our membership registration form (powered by Google Forms), we collect:
+When you complete our membership registration form (through embedded Google Forms), we collect:
 - Personal Information: Name, email address, location
 - Optional Information: Phone number, mapping experience, areas of interest
 - Technical Information: Timestamp of submission
