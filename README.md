@@ -22,17 +22,15 @@ We welcome contributions from the OSM Kenya community! Whether you're fixing bug
 
 - Follow the existing code style and conventions
 - Write clear, descriptive commit messages
-- Update documentation as needed
 - Test your changes before submitting
 - Be respectful and constructive in all interactions
 
 ### Types of Contributions
 
-- **Bug fixes**: Found a bug? Submit a fix!
-- **Features**: Have an idea for a new feature? Discuss it in an issue first
-- **Documentation**: Improve or translate documentation
-- **Design**: Enhance the UI/UX
 - **Content**: Add or improve content about OSM Kenya activities
+- **Bug fixes**: Found a bug? Submit a fix or create an issue!
+- **Design**: Enhance the UI/UX
+- **Features**: Have an idea for a new feature? Discuss it in an issue first
 
 ## Customizing Content
 
@@ -108,13 +106,6 @@ caption:
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 ```
-
-### Customizing Colors and Styles
-
-Edit `_data/style.yml` to change:
-- Primary brand colors
-- Header background image
-- Fonts and typography
 
 ## Support
 
