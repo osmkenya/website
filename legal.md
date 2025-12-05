@@ -1,8 +1,3 @@
----
-layout: page
-title: Privacy Policy
----
-
 <div class="text-center mb-4">
   <h2 class="section-heading text-uppercase">Privacy Policy</h2>
 </div>
