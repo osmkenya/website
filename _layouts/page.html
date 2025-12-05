@@ -1,16 +1,14 @@
 ---
 layout: default
 ---
+{% include nav.html %}
 
-{% include navbar-only.html %}
+{% if page.background == "grey" or page.background == "gray" %}
+<script>
+document.getElementById("page-top").className="bg-light";
+</script>
+{% endif %}
 
-<!-- Add spacing for fixed navbar and content wrapper -->
-<section class="page-section" style="padding-top: 120px; padding-bottom: 60px;">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 mx-auto">
-        {{ content }}
-      </div>
-    </div>
-  </div>
-</section>
+<div class="container" id="pagecontainer">
+{{ content }}
+</div>
