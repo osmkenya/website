@@ -5,8 +5,12 @@ layout: default
 {% include nav.html %}
 
 <!-- Add spacing for fixed navbar and content wrapper -->
-<div style="padding-top: 100px; padding-bottom: 50px;">
+<section class="page-section" style="padding-top: 120px; padding-bottom: 60px;">
   <div class="container">
-    {{ content }}
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+        {{ content }}
+      </div>
+    </div>
   </div>
-</div>
+</section>
