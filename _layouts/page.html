@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% include nav.html %}
+{% include navheader.html %}
 
 {% if page.background == "grey" or page.background == "gray" %}
 <script>
@@ -9,6 +9,8 @@ document.getElementById("page-top").className="bg-light";
 </script>
 {% endif %}
 
+<section class="page-section">
 <div class="container" id="pagecontainer">
 {{ content }}
 </div>
+</section>
