@@ -1,5 +1,19 @@
+<!-- Custom CSS for Transparent Navbar -->
+<style>
+  /* Navbar starts transparent */
+  #mainNav {
+    background-color: transparent !important;
+    transition: background-color 0.3s ease;
+  }
+  
+  /* Navbar turns DARK GREEN when scrolled */
+  #mainNav.navbar-shrink {
+    background-color: #020e00 !important;
+  }
+</style>
+
 <!-- Navigation -->
-<nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav" style="background-color: #020e00;">
+<nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
   <div class="container">
     <a class="navbar-brand js-scroll-trigger" href="#page-top">
       {%- if site.logo -%}
