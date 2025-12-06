@@ -65,9 +65,7 @@ encoding: utf-8
 
 # Analytics
 analytics:
-  google:
-    tracking_id: G-XE2B46VPM2
-
+  google: G-XE2B46VPM2
 
 author: Laura Mugeha
 
