@@ -63,9 +63,10 @@ exclude:
 timezone: Africa/Nairobi
 encoding: utf-8
 
-# Analytics (optional)
+# Analytics
 analytics:
-  google: # Add your Google Analytics tracking code if needed
+  google:
+    tracking_id: G-XE2B46VPM2
 
 
 author: Laura Mugeha
