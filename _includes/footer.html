@@ -8,29 +8,55 @@
       <!-- Social Media -->
       <div class="col-md-4">
         <ul class="list-inline social-buttons">
-          {% for link in site.data.sitetext.footer.social %}
-          <li class="list-inline-item">
-            {% if link.url %}
-            <a href="{{ link.url }}" target="_blank">
-              {% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %}
-            </a>
-            {% endif %}
-          </li>
-          {% endfor %}
+          {% if site.locale and site.locale != "" and site.locale != nil %}
+            {% for link in site.data.sitetext[site.locale].footer.social %}
+            <li class="list-inline-item">
+              {% if link.url %}
+              <a href="{{ link.url }}" target="_blank">
+                {% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %}
+              </a>
+              {% endif %}
+            </li>
+            {% endfor %}
+          {% else %}
+            {% for link in site.data.sitetext.footer.social %}
+            <li class="list-inline-item">
+              {% if link.url %}
+              <a href="{{ link.url }}" target="_blank">
+                {% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %}
+              </a>
+              {% endif %}
+            </li>
+            {% endfor %}
+          {% endif %}
         </ul>
       </div>
       <!-- Legal -->
       <div class="col-md-4">
         <ul class="list-inline quicklinks">
           <li class="list-inline-item">
-            {% if site.data.sitetext.footer.legal_url %}
-            <a href="{{ site.data.sitetext.footer.legal_url }}" target="_blank">
-              {{ site.data.sitetext.footer.legal | default: "Privacy Policy" }}
-            </a>
+            {% if site.locale and site.locale != "" and site.locale != nil %}
+              <!-- Using locale-aware path -->
+              {% if site.data.sitetext[site.locale].footer.legal_url %}
+              <a href="{{ site.data.sitetext[site.locale].footer.legal_url }}" target="_blank">
+                {{ site.data.sitetext[site.locale].footer.legal | default: "Privacy Policy" }}
+              </a>
+              {% else %}
+              <a href="legal">
+                {{ site.data.sitetext[site.locale].footer.legal | default: "Privacy Policy" }}
+              </a>
+              {% endif %}
             {% else %}
-            <a href="legal">
-              {{ site.data.sitetext.footer.legal | default: "Privacy Policy" }}
-            </a>
+              <!-- No locale set -->
+              {% if site.data.sitetext.footer.legal_url %}
+              <a href="{{ site.data.sitetext.footer.legal_url }}" target="_blank">
+                {{ site.data.sitetext.footer.legal | default: "Privacy Policy" }}
+              </a>
+              {% else %}
+              <a href="legal">
+                {{ site.data.sitetext.footer.legal | default: "Privacy Policy" }}
+              </a>
+              {% endif %}
             {% endif %}
           </li>
         </ul>
