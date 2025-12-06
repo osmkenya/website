@@ -103,7 +103,7 @@ en: &DEFAULT_EN
 
   footer:
     legal: "Privacy Policy"
-    legal_url: assets/OpenStreetMap_Kenya_Privacy_Policy.pdf
+    legal_url: https://www.canva.com/design/DAG6rqjNl5g/P1LczkgOTYRqsAZAagNrEw/view
     social:
       - url: https://twitter.com/osmkenya
         icon: "fab fa-twitter"
