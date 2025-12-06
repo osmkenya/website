@@ -1,0 +1,41 @@
+<!-- Footer -->
+<footer class="footer" id="footer" style="background-color: white">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-md-4">
+        <span class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
+      </div>
+      <!-- Social Media -->
+      <div class="col-md-4">
+        <ul class="list-inline social-buttons">
+          {% for link in site.data.sitetext.footer.social %}
+          <li class="list-inline-item">
+            {% if link.url %}
+            <a href="{{ link.url }}" target="_blank">
+              {% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %}
+            </a>
+            {% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      <!-- Legal -->
+      <div class="col-md-4">
+        <ul class="list-inline quicklinks">
+          <li class="list-inline-item">
+            {% if site.data.sitetext.footer.legal_url %}
+            <a href="{{ site.data.sitetext.footer.legal_url }}" target="_blank">
+              {{ site.data.sitetext.footer.legal | default: "Privacy Policy" }}
+            </a>
+            {% else %}
+            <a href="legal">
+              {{ site.data.sitetext.footer.legal | default: "Privacy Policy" }}
+            </a>
+            {% endif %}
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- End Footer -->
